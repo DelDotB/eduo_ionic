@@ -1,0 +1,1 @@
+This is the first project for Eduonix Ionic 2 course
